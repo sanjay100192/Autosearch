@@ -1,0 +1,6 @@
+mnm_service_01
+mnm_service_02
+mnm_service_03
+service_aaaa
+service_bbbb
+service_cccc
